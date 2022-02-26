@@ -1,0 +1,5 @@
+export const CHANGE_TASK_COMPLETE_REQUEST = "@change-task-complete/CHANGE_TASK_COMPLETE_REQUEST"
+export const CHANGE_TASK_COMPLETE_SUCCESS = "@change-task-complete/CHANGE_TASK_COMPLETE_SUCCESS"
+export const CHANGE_TASK_COMPLETE_FAILED = "@change-task-complete/CHANGE_TASK_COMPLETE_FAILED"
+
+
